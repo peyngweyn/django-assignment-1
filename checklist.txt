@@ -1,0 +1,5 @@
+Python version: 3.13.7
+Virtual environment: active (yes)
+Django version: 4.2.24
+Runserver: working (yes)
+Git remote: set (yes)
